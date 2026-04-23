@@ -1,16 +1,17 @@
 import React from "react"
+import {Layout} from 'components'
 
 
 const Home: React.FC = () => {
-
   return (
   <div>
     <head>
       <title>vendas app</title>
     </head>
-    bem vindo!
+    
 
-    <button className="button is-dark">Button</button>
+    <Layout />
+
   </div>
 )
 }

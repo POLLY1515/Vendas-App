@@ -8,10 +8,10 @@ const Home: React.FC = () => {
     <head>
       <title>vendas app</title>
     </head>
+    bem vindo!
 
-    bem vindo
+    <button className="button is-dark">Button</button>
   </div>
-
 )
 }
 
